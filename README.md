@@ -7,12 +7,12 @@
 <p>"El backend es el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
 </p><hr>
 <h2>El Paso a Paso)</h2>
-<b>1. El Gancho (Clonar el Repo)</b></summary>
+<b>1. El Gancho (Clonar el Repo)</b>
 <p>Primero hay que traer la mercadería. Bajamos los cortes desde el repo de Aldo para tener qué cocinar.</p>
 <pre>!git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</pre>
-<b>2. Opción Python (El Chorizo al Plato)</b></summary>
+<b>2. Opción Python (El Chorizo al Plato)</b>
 <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
-<b>3. Opción Java (La Costilla con Hueso)</b></summary>
+<b>3. Opción Java (La Costilla con Hueso)</b>
 <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
 <hr><div align="center">
 <h3>Condimentos</h3>
