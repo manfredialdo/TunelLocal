@@ -4,34 +4,34 @@
         <i>"Un repositorio no es solo código, es como una buena carne que si no la sabés cocinar, se te arrebata."</i>
     </p>
 
-    <hr>
+<hr>
 
-    <h2>🥩 Resumen de la Parrillada</h2>
-    <p>
-        Este proyecto es como un <b>asado de domingo en Google Colab</b>. Agarramos un repositorio crudo que viene de GitHub, lo tiramos a la parrilla de los servidores de Google y lo sacamos jugoso para que lo veas desde cualquier lado. No importa si el bicho es <b>Python</b> o si es <b>Java</b>; acá le damos fuego parejo a los dos para que se doren y queden a punto.
-    </p>
+<h2>🥩 Resumen de la Parrillada</h2>
+<p>
+    Este proyecto es como un <b>asado de domingo en Google Colab</b>. Agarramos un repositorio crudo que viene de GitHub, lo tiramos a la parrilla de los servidores de Google y lo sacamos jugoso para que lo veas desde cualquier lado. No importa si el bicho es <b>Python</b> o si es <b>Java</b>; acá le damos fuego parejo a los dos para que se doren y queden a punto.
+</p>
 
-    <blockquote>
-        "El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
-    </blockquote>
+<blockquote>
+    "El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
+</blockquote>
 
-    <hr>
+<hr>
 
-    <h2>🛠️ Modo de Uso (El Paso a Paso)</h2>
-    
-    <details>
-        <summary><b>1. El Gancho (Clonar el Repo)</b></summary>
-        <p>Primero hay que traer la mercadería. Bajamos los cortes desde el repo de Aldo para tener qué cocinar.</p>
-        <pre>!git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</pre>
-    </details>
+<h2>🛠️ Modo de Uso (El Paso a Paso)</h2>
 
-    <details>
-        <summary><b>2. Opción Python (El Chorizo al Plato)</b></summary>
-        <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
-        <pre>
+<details>
+    <summary><b>1. El Gancho (Clonar el Repo)</b></summary>
+    <p>Primero hay que traer la mercadería. Bajamos los cortes desde el repo de Aldo para tener qué cocinar.</p>
+    <pre>!git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</pre>
+</details>
+
+<details>
+    <summary><b>2. Opción Python (El Chorizo al Plato)</b></summary>
+    <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
+    <pre>
 # Instalamos la batería de cocina
-!pip install flask --quiet
-!npm install -g localtunnel --quiet
+        !pip install flask --quiet
+        !npm install -g localtunnel --quiet
         </pre>
     </details>
 
