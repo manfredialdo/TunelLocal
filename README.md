@@ -4,11 +4,10 @@
 
 <h2>Resumen de la Parrillada</h2>
 <p>Este proyecto es como un <b>asado de domingo en Google Colab</b>. Agarramos un repositorio crudo que viene de GitHub, lo tiramos a la parrilla de los servidores de Google y lo sacamos jugoso para que lo veas desde cualquier lado. No importa si el bicho es <b>Python</b> o si es <b>Java</b>; acá le damos fuego parejo a los dos para que se doren y queden a punto.</p>
+<p>"El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
+</p><hr>
 
-<blockquote>"El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
-</blockquote><hr>
-
-<h2>🛠️ Modo de Uso (El Paso a Paso)</h2>
+<h2>Modo de Uso (El Paso a Paso)</h2>
 
 <details>
     <summary><b>1. El Gancho (Clonar el Repo)</b></summary>
@@ -21,19 +20,19 @@
     <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
     <pre>
 # Instalamos la batería de cocina
-        !pip install flask --quiet
-        !npm install -g localtunnel --quiet
-        </pre>
-    </details>
+    !pip install flask --quiet
+    !npm install -g localtunnel --quiet
+    </pre>
+</details>
 
-    <details>
-        <summary><b>3. Opción Java (La Costilla con Hueso)</b></summary>
-        <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
-        <pre>
+<details>
+    <summary><b>3. Opción Java (La Costilla con Hueso)</b></summary>
+    <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
+    <pre>
 # Compilamos y mandamos a la parri
-!javac *.java
-!java Main
-        </pre>
+    !javac *.java
+    !java Main
+    </pre>
     </details>
 
     <hr>
