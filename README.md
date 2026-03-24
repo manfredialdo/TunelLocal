@@ -1,21 +1,12 @@
 <section>
-    <h1 align="center">🔥 Tunel Local: El Bodegón del Backend</h1>
-    <p align="center">
-        <i>"Un repositorio no es solo código, es como una buena carne que si no la sabés cocinar, se te arrebata."</i>
-    </p>
+    <h1 align="center">Tunel Local: El Bodegón del Backend</h1>
+    <p align="center"><i>"Un repositorio es solo código para probar, es como una buena carne que si no la sabes cocinar, se arrebata."</i></p><hr>
 
-<hr>
+<h2>Resumen de la Parrillada</h2>
+<p>Este proyecto es como un <b>asado de domingo en Google Colab</b>. Agarramos un repositorio crudo que viene de GitHub, lo tiramos a la parrilla de los servidores de Google y lo sacamos jugoso para que lo veas desde cualquier lado. No importa si el bicho es <b>Python</b> o si es <b>Java</b>; acá le damos fuego parejo a los dos para que se doren y queden a punto.</p>
 
-<h2>🥩 Resumen de la Parrillada</h2>
-<p>
-    Este proyecto es como un <b>asado de domingo en Google Colab</b>. Agarramos un repositorio crudo que viene de GitHub, lo tiramos a la parrilla de los servidores de Google y lo sacamos jugoso para que lo veas desde cualquier lado. No importa si el bicho es <b>Python</b> o si es <b>Java</b>; acá le damos fuego parejo a los dos para que se doren y queden a punto.
-</p>
-
-<blockquote>
-    "El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
-</blockquote>
-
-<hr>
+<blockquote>"El backend es como el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
+</blockquote><hr>
 
 <h2>🛠️ Modo de Uso (El Paso a Paso)</h2>
 
