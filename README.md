@@ -38,4 +38,4 @@
 <hr><div align="center">
 <h3>Condimentos</h3>
 <p>Copiás la IP que te escupe el <code>curl</code>, abrís el link que te da el <code>npx localtunnel</code> y ¡listo! Ya tenés el backend funcionando, servido en tabla de madera y con el ping bien bajo.</p>
-<p><b>© 2026 · Aldo Manfredi · Maestro Parrillero de Código</b></p></div></section>
+<p><b>© 2026 · Aldo Manfredi · Maestro Parrillero</b></p></div></section>
