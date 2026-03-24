@@ -15,6 +15,6 @@
 <b>3. Opción Java (La Costilla con Hueso)</b>
 <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
 <hr><div align="center">
-<h3>Condimentos</h3>
+<h3>REULTADOS!!!</h3>
 <p>Copiás la IP que te escupe el <code>curl</code>, abrís el link que te da el <code>npx localtunnel</code> y ¡listo! Tenés el backend funcionando, servido en tabla de madera y con el ping bien bajo.</p>
 <p><b>© 2026 · Aldo Manfredi · Maestro Parrillero</b></p></div></section>
