@@ -7,14 +7,16 @@
 <p>"El backend es el choripán: un montón de lógica condimentada, picada y metida dentro de un servidor... todo eso cocido a fuego lento y servido en un pan de URL pública para que te lo comas de un bocado. Si te da la gana, le ponés el chimichurri de tus propias rutas."
 </p><hr>
 <h2>El Paso a Paso)</h2>
-<b>1. El Gancho (Clonar el Repo)</b>
+<b>1. Primero el Gancho (Clonar el Repo)</b>
 <p>Primero hay que traer la mercadería. Bajamos los cortes desde el repo de Aldo para tener qué cocinar.</p>
-<pre>!git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</pre>
-<b>2. Opción Python (El Chorizo al Plato)</b>
+<p src="git clone https://github.com/manfredialdo/gekko.git">aplicacion flask</p>
+<p src="git clone https://github.com/manfredialdo/gekko.git">programacion3</p>
+
+<b>1. Opción Python (El Chorizo al Plato)</b>
 <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
-<b>3. Opción Java (La Costilla con Hueso)</b>
+<b>2. Opción Java (La Costilla con Hueso)</b>
 <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
-<hr><div align="center">
+<hr>
 <h3>REULTADOS!!!</h3>
 <p>Copiás la IP que te escupe el <code>curl</code>, abrís el link que te da el <code>npx localtunnel</code> y ¡listo! Tenés el backend funcionando, servido en tabla de madera y con el ping bien bajo.</p>
 <p><b>© 2026 · Aldo Manfredi · Maestro Parrillero</b></p></div></section>
