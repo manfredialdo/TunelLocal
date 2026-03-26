@@ -13,9 +13,12 @@
 <p>programacion3: git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</p>
 
 <b>1. Opción Python (El Chorizo al Plato)</b>
-<p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
+<p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>app.py</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
 <b>2. Opción Java (La Costilla con Hueso)</b>
 <p>Para los que les gusta renegar más pero con más sabor. Acá compilamos el <code>.java</code> con <code>javac</code>, lo hacemos hervir en el puerto 8080 y te damos la llave de paso (IP Password) para que entres al túnel sin pedir permiso.</p>
+<b>3. Opción frontend (El vino con soda)</b>
+<p>Para bajar el morfi y si lo unico que querias era el <b>frontend</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve en un vaso de plastico con un túnel de Localtunnel. Es simple.</p>
+
 <hr>
 <h3>REULTADOS!!!</h3>
 <p>Copiás la IP que te escupe el <code>curl</code>, abrís el link que te da el <code>npx localtunnel</code> y ¡listo! Tenés el backend funcionando, servido en tabla de madera y con el ping bien bajo.</p>
