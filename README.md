@@ -10,7 +10,7 @@
 <b>1. Primero el Gancho (Clonar el Repo)</b>
 <p>Primero hay que traer la mercadería. Bajamos los cortes desde el repo de Aldo para tener qué cocinar.</p>
 <p>aplicacion flask: git clone https://github.com/manfredialdo/gekko.git</p>
-<p>programacion3: git clone https://github.com/manfredialdo/gekko.git</p>
+<p>programacion3: git clone https://github.com/manfredialdo/UTN-TUPaD-P3.git</p>
 
 <b>1. Opción Python (El Chorizo al Plato)</b>
 <p>Si lo tuyo es el <b>Flask</b>, esta celda levanta el servidor, busca el <code>index.html</code> entre las carpetas y te lo sirve caliente con un túnel de Localtunnel. Es rápido, eficaz y no falla.</p>
